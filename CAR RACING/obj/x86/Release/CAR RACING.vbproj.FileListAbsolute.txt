@@ -1,0 +1,9 @@
+C:\Users\ajidsolehudin\Documents\Project Aplikasi\CAR RACING\CAR RACING\bin\Release\CAR RACING.exe
+C:\Users\ajidsolehudin\Documents\Project Aplikasi\CAR RACING\CAR RACING\bin\Release\CAR RACING.pdb
+C:\Users\ajidsolehudin\Documents\Project Aplikasi\CAR RACING\CAR RACING\bin\Release\CAR RACING.xml
+C:\Users\ajidsolehudin\Documents\Project Aplikasi\CAR RACING\CAR RACING\obj\x86\Release\CAR_RACING.Form1.resources
+C:\Users\ajidsolehudin\Documents\Project Aplikasi\CAR RACING\CAR RACING\obj\x86\Release\CAR_RACING.Resources.resources
+C:\Users\ajidsolehudin\Documents\Project Aplikasi\CAR RACING\CAR RACING\obj\x86\Release\CAR RACING.vbproj.GenerateResource.Cache
+C:\Users\ajidsolehudin\Documents\Project Aplikasi\CAR RACING\CAR RACING\obj\x86\Release\CAR RACING.exe
+C:\Users\ajidsolehudin\Documents\Project Aplikasi\CAR RACING\CAR RACING\obj\x86\Release\CAR RACING.xml
+C:\Users\ajidsolehudin\Documents\Project Aplikasi\CAR RACING\CAR RACING\obj\x86\Release\CAR RACING.pdb
